@@ -1,0 +1,10 @@
+{
+    "env":"dev",
+    "dev":{
+        "url":"https://practicetestautomation.com/practice-test-login/",
+        "default_user":{
+            "username":"student",
+            "password":"Password123"
+        }
+    }
+}
