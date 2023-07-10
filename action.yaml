@@ -1,0 +1,5 @@
+name: 'Playwright test'
+description: 'Run login test'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
